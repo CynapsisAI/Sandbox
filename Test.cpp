@@ -35,7 +35,4 @@ int main() {
 }
 
 
-//did we do the git? Oh yeaaa
-
-//trying again
 
